@@ -1,2 +1,3 @@
-Amp_IN=IN_R,IN_L
-Amp_OUT=OUT_L+,OUT_L-,OUT_R+,OUT_R-
+Amp_IN=IN_L,IN_R
+Amp_OUT=OUT_R-,OUT_R+,OUT_L-,OUT_L+
+SP=SP-,SP+

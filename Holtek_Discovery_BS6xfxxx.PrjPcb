@@ -1326,16 +1326,29 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=ICPCK|NetColor=$00FF6EFF
-Net2=NetName=ICPDA|NetColor=$00FF6EFF
-Net3=NetName=MISO|NetColor=clYellow
-Net4=NetName=MOSI|NetColor=clYellow
-Net5=NetName=N00000|NetColor=clYellow
-Net6=NetName=RX|NetColor=$006EFF6E
-Net7=NetName=SPI_Bus|NetColor=clYellow
-Net8=NetName=SPI_CLK|NetColor=clYellow
-Net9=NetName=TX|NetColor=$006EFF6E
-Net10=NetName=Usart|NetColor=$006EFF6E
+Net1=NetName=AN4|NetColor=$006E6EFF
+Net2=NetName=AN5|NetColor=$006E6EFF
+Net3=NetName=AN6|NetColor=$006E6EFF
+Net4=NetName=H1_P1|NetColor=$00FFFF6E
+Net5=NetName=H1_P2|NetColor=$00FFFF6E
+Net6=NetName=H1_P3|NetColor=$00FFFF6E
+Net7=NetName=H1_P4|NetColor=$00FFFF6E
+Net8=NetName=H1_P5|NetColor=$00FFFF6E
+Net9=NetName=ICPCK|NetColor=$00FF6EFF
+Net10=NetName=ICPDA|NetColor=$00FF6EFF
+Net11=NetName=INT0|NetColor=$00FFFF6E
+Net12=NetName=LCD_CS|NetColor=$00FF6E6E
+Net13=NetName=LCD_RST|NetColor=$00FF6E6E
+Net14=NetName=LCD_SCL|NetColor=$00FF6E6E
+Net15=NetName=LCD_SDA|NetColor=$00FF6E6E
+Net16=NetName=MISO|NetColor=clYellow
+Net17=NetName=MOSI|NetColor=clYellow
+Net18=NetName=N00000|NetColor=clYellow
+Net19=NetName=RX|NetColor=$006EFF6E
+Net20=NetName=SPI_Bus|NetColor=clYellow
+Net21=NetName=SPI_CLK|NetColor=clYellow
+Net22=NetName=TX|NetColor=$006EFF6E
+Net23=NetName=Usart|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
