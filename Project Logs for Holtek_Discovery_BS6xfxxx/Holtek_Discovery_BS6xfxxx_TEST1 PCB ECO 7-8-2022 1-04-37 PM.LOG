@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=7SE1{M2} Pin=*-8
+Added Pin To Net: NetName=7SE1{A} Pin=*-9
+Add Net: Net with name "MOSI" already exists
+Add Net: Net with name "SPI_CLK" already exists

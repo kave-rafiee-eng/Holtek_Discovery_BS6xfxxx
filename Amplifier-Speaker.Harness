@@ -1,2 +1,2 @@
-Amp_IN=IN{R},IN{L}
-Amp_OUT=OUT_R{-},OUT_R{+},OUT_L{-},OUT_L{+}
+Amp_IN=IN_R,IN_L
+Amp_OUT=OUT_R-,OUT_R+,OUT_L-,OUT_L+
