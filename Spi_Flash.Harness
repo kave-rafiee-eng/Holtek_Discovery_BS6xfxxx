@@ -1,0 +1,2 @@
+SPI_Bus=SPI_CLK,MOSI,MISO
+SPI_Flash=CS-SpI_Flash

@@ -1,0 +1,2 @@
+Shift_Register=STCH,MR,OE
+SPI_Bus=MISO,MOSI,SPI_CLK
