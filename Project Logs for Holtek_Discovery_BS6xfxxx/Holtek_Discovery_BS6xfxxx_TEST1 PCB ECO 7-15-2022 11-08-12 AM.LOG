@@ -1,0 +1,4 @@
+Change Component Comment : Designator=CN4 Old Comment=SP New Comment=\
+Change Component Comment : Designator=CN5 Old Comment=TIM_INT0 New Comment=TIM-INT0
+Added Pin To Net: NetName=GND Pin=CN6-5
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow

@@ -1,0 +1,5 @@
+Added Component: Designator=CN2(dc005)
+Added Pin To Net: NetName=GND Pin=CN2-2
+Added Pin To Net: NetName=GND Pin=CN2-3
+Added Pin To Net: NetName=+5_JAC Pin=CN2-4
+Added Member To Class: ClassName=U_Connectors Member=Component CN2 DC005
